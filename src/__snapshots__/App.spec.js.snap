@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapshot test app_snapshot_should_renderer 1`] = `
+<div>
+  <h1>
+    hello bous
+  </h1>
+  <div>
+    <p>
+      0
+    </p>
+  </div>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Increment
+  </button>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Decrement
+  </button>
+  <h2>
+    My Async Data
+  </h2>
+  <ul />
+  <span
+    id="output"
+  >
+    5
+  </span>
+</div>
+`;
+
+exports[`App snapshot test app_snapshot_should_renderer 2`] = `
+<div>
+  <p />
+</div>
+`;
+
+exports[`Counter snapshot test Counter spanpshot render 1`] = `
+<div>
+  <p />
+</div>
+`;
